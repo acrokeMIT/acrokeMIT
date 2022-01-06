@@ -1,0 +1,27 @@
+---
+title: Continuous Photochemical Generation of Catalytically Active [CpRu]+
+  Complexes from CpRu(η6-C6H6)PF6
+publication_types:
+  - "2"
+authors:
+  - Alicia C. Gutierrez
+  - and Timothy F. Jamison
+publication: Organic Letters
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol2027015?prevSearch=%255BContrib%253A%2BAlicia%2BC.%2BGutierrez%255D&searchHistoryKey=
+abstract: Inter- and intramolecular ene–yne coupling reactions catalyzed by a
+  species generated in situ via photolysis of CpRu(η6-C6H6)PF6—an inexpensive,
+  readily available, and shelf-stable complex—have been demonstrated under
+  conditions of continuous flow. Importantly, the catalyst can be recovered
+  quantitatively at the end of the reaction. Various functional groups are
+  tolerated by the reaction, which affords skipped diene products in high
+  yields.
+draft: false
+featured: false
+tags:
+  - Photochemistry
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2011-11-15T21:24:52.464Z
+---
