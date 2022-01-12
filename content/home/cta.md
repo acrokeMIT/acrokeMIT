@@ -5,6 +5,7 @@ widget: blank
 headless: true
 weight: 40
 design:
+  image: the dome.jpg
   columns: '1'
 ---
 
