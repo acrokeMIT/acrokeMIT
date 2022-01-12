@@ -5,7 +5,10 @@ widget: blank
 headless: true
 weight: 40
 design:
-  image: the dome.jpg
+  background:
+   image: the dome.jpg
+   image_size: cover
+   image_position: center
   columns: '1'
 ---
 
