@@ -11,7 +11,7 @@ item:
     content: 'I am center aligned 😄'
     align: center
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: ''
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     cta_label: Download my app
     cta_url: 'https://example.org'
@@ -29,6 +29,4 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-  
-  image: ""
 ---
