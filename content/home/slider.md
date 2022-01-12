@@ -7,13 +7,13 @@ interval: false
 height: 300px
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: The Team
+    content: ''
     align: center
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: ''
-    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    cta_label: Download my app
+    overlay_img: 'the dome.jpg'
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: Meet The Team
     cta_url: 'https://example.org'
     cta_icon_pack: fas
     cta_icon: graduation-cap
