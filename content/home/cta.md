@@ -7,8 +7,8 @@ weight: 40
 design:
   background:
    image: the dome.jpg
-   image_size: actual
-   image_position: center
+   image_size: contain
+   image_position: right
   columns: '1'
 ---
 
