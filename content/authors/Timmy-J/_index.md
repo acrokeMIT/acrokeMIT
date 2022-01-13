@@ -1,6 +1,6 @@
 ---
 title: Timothy Jamison
-role: Post Doctorate Fellow
+role: Principal Investigator
 avatar_filename: avatar.png
 interests:
   - Chemistry
