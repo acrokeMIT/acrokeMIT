@@ -28,7 +28,7 @@ education:
     - course: PhD, Chemistry
       institution: Harvard University
       year: 1997
-      - course: Post Doctorate Fellow, Chemistry
+    - course: Post Doctorate Fellow, Chemistry
       institution: Harvard University
       year: 1999
 email: ""
