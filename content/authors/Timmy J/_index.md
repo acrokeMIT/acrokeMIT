@@ -10,10 +10,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:cavedon@mit.edu
+    link: mailto:tfj@mit.edu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cristian-cavedon/
+    link: https://www.linkedin.com/in/tim-jamison-41a55a4/
 organizations:
   - name: Massachusetts Institute of Technology
     url: ""
