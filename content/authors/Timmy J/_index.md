@@ -19,15 +19,18 @@ organizations:
     url: ""
 education:
   courses:
-    - course: "Doctor's Degree, Chemistry "
-      institution: Freie Universität Berlin
-      year: 2021
-    - course: Masters of Science, Industrial Chemistry
-      institution: Università degli Studi di Padova
-      year: 2016
-    - course: Bachelors of Science, Industrial Chemistry
-      institution: Università degli Studi di Padova
-      year: 2014
+    - course: Bachelors of Science, Chemistry
+      institution: University of California, Berkeley
+      year: 1990
+    - course: Chemistry
+      institution: ETH Zürich
+      year: 1991
+    - course: PhD, Chemistry
+      institution: Harvard University
+      year: 1997
+      - course: Post Doctorate Fellow, Chemistry
+      institution: Harvard University
+      year: 1999
 email: ""
 superuser: true
 user_groups:
