@@ -10,7 +10,7 @@ social:
     icon: envelope
   - display:
       header: false
-    link:https://www.linkedin.com/in/tim-jamison-41a55a4/
+    link: https://www.linkedin.com/in/tim-jamison-41a55a4/
     icon_pack: fab
     icon: linkedin
 education:
