@@ -15,6 +15,6 @@ education:
       year: 1999
 superuser: false
 user_groups:
-  - Principle Investigator
+  - Principal Investigator
 ---
 Jamo is a cool mf
