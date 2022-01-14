@@ -1,5 +1,5 @@
 ---
-title: Sarah Jane
+title: Sarah Jane Mear
 role: Graduate Student
 avatar_filename: avatar.png
 interests:
