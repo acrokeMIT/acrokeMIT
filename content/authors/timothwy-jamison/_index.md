@@ -19,6 +19,7 @@ social:
     icon: linkedin
 organizations:
   - name: Massachusetts Institute of Technology
+    url: '{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.'
 education:
   courses:
     - course: Bachelors of Science, Chemistry
