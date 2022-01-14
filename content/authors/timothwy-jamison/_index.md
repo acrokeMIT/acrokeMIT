@@ -2,6 +2,7 @@
 title: Timothwy Jamison
 role: Principal Investigator
 avatar_filename: avatar.png
+bio: '{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.'
 interests:
   - Chemistry
   - Photochemistry
@@ -19,7 +20,7 @@ social:
     icon: linkedin
 organizations:
   - name: Massachusetts Institute of Technology
-    url: '{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.'
+    url: ""
 education:
   courses:
     - course: Bachelors of Science, Chemistry
