@@ -1,5 +1,5 @@
 ---
-title: Timothwy Jamison
+title: Timothy Jamison
 role: Principal Investigator
 avatar_filename: avatar.png
 bio: ""
