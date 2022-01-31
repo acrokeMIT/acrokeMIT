@@ -5,12 +5,12 @@ avatar_filename: avatar.png
 social:
   - display:
       header: false
-    link: "mailto: tfj@mit.edu"
+    link: mailto: tfj@mit.edu
     icon_pack: fas
     icon: envelope
   - display:
       header: false
-    link: " https://www.linkedin.com/in/tim-jamison-41a55a4/"
+    link: https://www.linkedin.com/in/tim-jamison-41a55a4/
     icon_pack: fab
     icon: linkedin
 organizations: []
