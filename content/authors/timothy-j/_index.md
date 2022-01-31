@@ -2,6 +2,10 @@
 title: Timothy J
 role: "Principal Investigator "
 avatar_filename: avatar.png
+interests:
+  - Chemistry
+  - Photochemistry
+  - Catalysis
 social:
   - display:
       header: false
@@ -13,7 +17,8 @@ social:
     link: https://www.linkedin.com/in/tim-jamison-41a55a4/
     icon_pack: fab
     icon: linkedin
-organizations: []
+organizations:
+  - name: Massachusetts Institute of Technology
 education:
   courses:
     - course: PhD Chemistry
