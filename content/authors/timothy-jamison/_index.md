@@ -1,5 +1,5 @@
 ---
-title: "Timothy Jamison "
+title: Timothy J
 role: "Principal Investigator "
 avatar_filename: avatar.png
 social:
@@ -13,10 +13,12 @@ social:
     link: " https://www.linkedin.com/in/tim-jamison-41a55a4/"
     icon_pack: fab
     icon: linkedin
-organizations:
-  - name: Massachusetts Institute of Technology
+organizations: []
 education:
-  courses: []
+  courses:
+    - course: PhD Chemistry
+      institution: Harvard University
+      year: 1997
 superuser: false
 user_groups:
   - Principal Investigator
