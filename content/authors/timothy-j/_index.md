@@ -35,7 +35,7 @@ education:
       institution: University of California, Berkeley
 superuser: false
 user_groups:
-  - Principal 
+  - Principal Investigator
 ---
 
 <!--StartFragment-->
