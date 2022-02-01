@@ -1,5 +1,5 @@
 ---
-title: Timothy J
+title: Timothy Jamison
 role: "Principal Investigator "
 avatar_filename: avatar.png
 interests:
@@ -21,9 +21,18 @@ organizations:
   - name: Massachusetts Institute of Technology
 education:
   courses:
+    - course: Post Doctorate Fellow, Chemistry
+      institution: Harvard University
+      year: 1998
     - course: PhD Chemistry
       institution: Harvard University
       year: 1997
+    - course: Chemistry
+      institution: ETH Zürich
+      year: 1991
+    - course: Bachelors of Science, Chemistry
+      year: 1991
+      institution: University of California, Berkeley
 superuser: false
 user_groups:
   - Principal Investigator
