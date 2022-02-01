@@ -29,5 +29,5 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - current members
+  - Current Members
 ---
