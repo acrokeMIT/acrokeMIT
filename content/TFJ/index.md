@@ -1,41 +1,12 @@
 ---
-title: Timothy Jamison
-role: "Principal Investigator "
-image: "avatar.png"
-interests:
-  - Chemistry
-  - Photochemistry
-  - Catalysis
-social:
-  - display:
-      header: false
-    link: mailto:tfj@mit.edu
-    icon_pack: fas
-    icon: envelope
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/tim-jamison-41a55a4/
-    icon_pack: fab
-    icon: linkedin
-organizations:
-  - name: Massachusetts Institute of Technology
-education:
-  courses:
-    - course: Post Doctorate Fellow, Chemistry
-      institution: Harvard University
-      year: 1998
-    - course: PhD Chemistry
-      institution: Harvard University
-      year: 1997
-    - course: Chemistry
-      institution: ETH Zürich
-      year: 1991
-    - course: Bachelors of Science, Chemistry
-      year: 1991
-      institution: University of California, Berkeley
-superuser: false
-user_groups:
-  - Principal Investigator
+---
+title: 
+view: 4
+
+header:
+  image: "avatar.png"
+---
+
 ---
 
 <!--StartFragment-->
