@@ -3,7 +3,7 @@ title:
 view: 4
 
 header:
-  image: "avatar.png"
+
 ---
 
 <!--StartFragment-->
