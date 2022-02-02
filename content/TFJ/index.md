@@ -1,5 +1,16 @@
 ---
-
+widget: hero
+widget_id: Starter Guide
+headless: true
+weight: 10
+title: Welcome to the Jamison Research Group!
+hero_media: jamisongrp2019.png
+design:
+  columns: "1"
+  css_style: null
+  css_class: null
+  background:
+    image: "avatar.png"
 ---
 
 <!--StartFragment-->
