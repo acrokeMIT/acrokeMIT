@@ -1,7 +1,7 @@
 ---
 title: Timothy Jamison
 role: "Principal Investigator "
-image: "Group Values.png"
+image: "avatar.png"
 interests:
   - Chemistry
   - Photochemistry
