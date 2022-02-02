@@ -4,7 +4,7 @@ widget_id: Starter Guide
 headless: true
 weight: 10
 title: Welcome to the Jamison Research Group!
-subtitle: "blab blab blab "
+subtitle: ""
 design:
   columns: "1"
   css_style: null
