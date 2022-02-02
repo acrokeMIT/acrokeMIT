@@ -14,6 +14,7 @@ draft: false
 featured: false
 authors:
   - Sarah Jane Mear
+  - Timothy Jamison
 image:
   filename: featured
   focal_point: Smart
