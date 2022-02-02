@@ -1,7 +1,25 @@
 ---
+widget: hero
+headless: true  # This file represents a page section.
 
+# ... Put Your Section Options Here (title etc.) ...
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: ''
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
 ---
-
-Tim Jamison was born in San Jose, CA and grew up in neighboring Los Gatos, CA. He received his undergraduate education at the University of California, Berkeley. A six-month research assistantship at ICI Americas in Richmond, CA under the mentorship of Dr. William G. Haag was his first experience in chemistry research. Upon returning to Berkeley, he joined the laboratory of Prof. Henry Rapoport and conducted undergraduate research in his group for nearly three years, the majority of which was under the tutelage of William D. Lubell (now at the University of Montreal). A Fulbright Scholarship supported ten months of research in Prof. Steven A. Benner’s laboratories at the ETH in Zürich, Switzerland, and thereafter he completed his PhD studies at Harvard University with Prof. Stuart L. Schreiber. He then moved to the laboratory of Prof. Eric N. Jacobsen at Harvard University, where he was a Damon Runyon-Walter Winchell postdoctoral fellow. In July 1999, he began his independent career at MIT, where his research program focuses on the development of new methods of organic synthesis and their implementation in the total synthesis of natural products.
-
-{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
