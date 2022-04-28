@@ -1,5 +1,5 @@
 ---
-title: Christian Cavedon
+title: Cristian Cavedon
 role: Post Doctorate Fellow
 avatar_filename: avatar.png
 bio: ""
