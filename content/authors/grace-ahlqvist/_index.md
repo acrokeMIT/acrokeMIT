@@ -22,9 +22,9 @@ social:
     link: https://www.linkedin.com/in/graceputkaahlqvist/
 education:
   courses:
-    - course: PhD Candidate, Organic Chemistry
+    - course: PhD, Organic Chemistry
       institution: Massachusetts Institute of Technology
-      year: 2021
+      year: 2022
     - course: Bachelor of Arts, Chemistry Major, Biology Minor
       institution: Macalester College
       year: 2016
