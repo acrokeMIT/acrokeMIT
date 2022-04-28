@@ -24,9 +24,9 @@ education:
     - course: "Bachelors of Science, Chemistry "
       institution: University of North Carolina at Chapel Hill
       year: 2015
-    - course: PhD Candidate
+    - course: PhD of Chemistry
       institution: Massachusetts Institute of Technology
-      year: 2021
+      year: 2022
 superuser: false
 user_groups:
   - Current Member
