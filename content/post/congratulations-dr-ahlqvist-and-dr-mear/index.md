@@ -1,5 +1,5 @@
 ---
-title: New Paper Published! "Congratulations Dr. Ahlqvist and Dr. Mear"
+title: "Congratulations Dr. Ahlqvist and Dr. Mear"
 date: 2022-04-28T20:29:40.313Z
 summary: >-
   <!--StartFragment-->
