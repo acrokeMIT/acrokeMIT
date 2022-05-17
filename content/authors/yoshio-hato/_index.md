@@ -1,6 +1,6 @@
 ---
 title: Yoshio Hato
-role: Post Doctorate Fellow
+role: Visiting Scholar
 avatar_filename: avatar.png
 interests:
   - Organometallic Chemistry
