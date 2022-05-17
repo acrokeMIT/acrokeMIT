@@ -1,5 +1,5 @@
 ---
-title: Guanghu Tong
+title: Yoshio Hato
 role: Post Doctorate Fellow
 avatar_filename: avatar.png
 interests:
