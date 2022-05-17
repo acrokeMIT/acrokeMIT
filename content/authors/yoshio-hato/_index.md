@@ -1,0 +1,31 @@
+---
+title: Guanghu Tong
+role: Post Doctorate Fellow
+avatar_filename: avatar.png
+interests:
+  - Organometallic Chemistry
+  - Process Chemistry
+  - Scale Up Synthesis
+social:
+  - display:
+      header: false
+    link: mailto:yohato@mit.edu
+    icon_pack: fas
+    icon: envelope
+organizations:
+  - name: Masssachusetts Institute of Technology
+education:
+  courses:
+    - course: Bachelor's Degree Faculty of Science
+      institution: Kyoto University
+      year: 2006
+    - course: Master's Degree Graduate School of Science
+      institution: Kyoto University
+      year: 2008
+    - course: Ph.D. Graduate School of Life Science,
+      institution: Hokkaido University
+      year: 2016
+superuser: false
+user_groups:
+  - Current Members
+---
