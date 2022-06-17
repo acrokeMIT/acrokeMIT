@@ -1,7 +1,7 @@
 ---
 title: Tobias Lucas
-role: Visiting Scholar
-avatar_filename: avatar.png
+role: Visiting Student
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Total Synthesis
@@ -31,6 +31,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Current Member
+  - Current Members
 highlight_name: false
 ---
