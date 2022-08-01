@@ -12,6 +12,12 @@ social:
     link: mailto:yohato@mit.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/yoshio-hato/
+    icon_pack: fab
+    label: ""
+    icon: linkedin
 organizations:
   - name: Masssachusetts Institute of Technology
 education:
