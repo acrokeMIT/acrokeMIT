@@ -8,7 +8,7 @@ authors:
   - Jo-Ann Jee
   - B. Frank Gupton
   - Thomas D. Roper
-  - "* andTimothy F. Jamison"
+  - "* and Timothy F. Jamison"
 publication: Angewandte Chemie
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201802256
 abstract: Dolutegravir (DTG), an important active pharmaceutical ingredient
@@ -29,5 +29,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2018-05-14T15:04:14.672Z
+date: **2018**-05-14T15:04:14.672Z
 ---
