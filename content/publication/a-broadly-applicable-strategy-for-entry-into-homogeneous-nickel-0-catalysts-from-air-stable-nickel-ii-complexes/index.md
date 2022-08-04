@@ -7,8 +7,8 @@ authors:
   - Eric A. Standley
   - Stacey J. Smith
   - Peter Müller
-  - and Timothy F. Jamison
-publication: Organometallics
+  - Timothy F. Jamison
+publication: _Organometallics_
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/om500156q
 abstract: A series of air-stable nickel complexes of the form L2Ni(aryl) X (L =
   monodentate phosphine, X = Cl, Br) and LNi(aryl)X (L = bis-phosphine) have
