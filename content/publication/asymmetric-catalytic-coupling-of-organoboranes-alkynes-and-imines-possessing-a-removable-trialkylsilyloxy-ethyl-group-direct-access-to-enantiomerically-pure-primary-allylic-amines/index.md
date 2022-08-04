@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Sejal J. Patel
   - Timothy F. Jamison
-publication: Angewandte Chemie
+publication: _Angewandte Chemie_
 abstract: The aryl substituent on the catalyst is central to the success of the
   title reaction (see scheme) which affords allylic amines in up to 89 % ee and
   91 % yield with a catalyst derived from [Ni(cod)2] and a P-chiral ferrocenyl
