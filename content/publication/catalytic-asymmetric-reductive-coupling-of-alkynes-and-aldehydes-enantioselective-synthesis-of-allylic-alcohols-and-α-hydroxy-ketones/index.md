@@ -7,7 +7,7 @@ authors:
   - Karen M. Miller
   - Wei-Sheng Huang
   - Timothy F. Jamison
-publication: Journal of the American Chemical Society
+publication: _Journal of the American Chemical Society_
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/ja034366y
 abstract: A highly enantioselective method for catalytic reductive coupling of
   alkynes and aldehydes is described. Allylic alcohols are afforded with
