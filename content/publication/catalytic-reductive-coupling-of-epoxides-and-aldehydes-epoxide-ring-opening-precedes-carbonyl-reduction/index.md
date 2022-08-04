@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Carmela Molinaro
   - Timothy F. Jamison
-publication: Angewandte Chemie
+publication: _Angewandte Chemie_
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200461705
 abstract: Several lines of evidence suggest that reduction of the carbonyl group
   occurs after epoxide-ring opening in the first examples of catalytic,
