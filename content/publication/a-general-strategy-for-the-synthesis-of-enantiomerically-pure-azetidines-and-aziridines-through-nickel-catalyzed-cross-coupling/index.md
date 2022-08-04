@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Kim L. Jensen
   - Dennis U. Nielsen
-  - and Timothy F. Jamison
-publication: Angewandte Chemie
+  - Timothy F. Jamison
+publication: _Angewandte Chemie_
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/chem.201500886
 abstract: >-
   In this communication, we report a straightforward synthesis of
