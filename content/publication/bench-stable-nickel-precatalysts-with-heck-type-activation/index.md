@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Jessica M. Weber
   - Ashley R. Longstreet
-  - and Timothy F. Jamison
-publication: "Organometallics "
+  - Timothy F. Jamison
+publication: "_Organometallics_ "
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.organomet.8b00351
 abstract: Herein, we report the synthesis and characterization of a new class of
   air- and moisture-stable phosphine-containing nickel(II) precatalysts, which
