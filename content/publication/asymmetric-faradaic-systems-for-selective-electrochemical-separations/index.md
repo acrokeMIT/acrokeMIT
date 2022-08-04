@@ -10,7 +10,7 @@ authors:
   - Markus Gallei
   - Timothy F. Jamison
   - T. Alan Hatton
-publication: Energy & Enviromental Science
+publication: _Energy & Enviromental Science_
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2017/ee/c7ee00066a
 abstract: >-
   Ion-selective electrochemical systems are promising for liquid phase
