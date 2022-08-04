@@ -6,7 +6,7 @@ authors:
   - James J. Mousseau
   - Christopher J. Morten
   - Timothy F. Jamison
-publication: "Chemistry A European Journal "
+publication: "_Chemistry A European Journal _"
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201300845
 abstract: "Reversed selectivity: 1,3-Dioxan-5-ol templated epoxy alcohols
   undergo a remarkably selective cyclization, which occurs with near complete
