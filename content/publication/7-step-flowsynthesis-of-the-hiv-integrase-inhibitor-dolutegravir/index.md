@@ -1,5 +1,5 @@
 ---
-title: 6-Step FlowSynthesis of the HIV Integrase Inhibitor Dolutegravir
+title: 7-Step FlowSynthesis of the HIV Integrase Inhibitor Dolutegravir
 publication_types:
   - "2"
 authors:
