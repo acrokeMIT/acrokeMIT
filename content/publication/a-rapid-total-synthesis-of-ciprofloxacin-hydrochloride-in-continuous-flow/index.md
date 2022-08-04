@@ -6,8 +6,8 @@ authors:
   - Hongkun Lin
   - Chunhui Dai
   - Timothy F. Jamison
-  - and Klavs F. Jensen
-publication: Angewandte Chemie
+  - Klavs F. Jensen
+publication: _Angewandte Chemie_
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201703812
 abstract: Within a total residence time of 9 min, the sodium salt of
   ciprofloxacin was prepared from simple building blocks via a linear sequence
