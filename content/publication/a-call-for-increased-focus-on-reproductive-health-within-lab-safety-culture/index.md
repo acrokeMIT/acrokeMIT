@@ -17,7 +17,7 @@ slides: null
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/jacs.1c03725
 publication_types:
   - "2"
-title: A Call for Increased Focus on **Reproductive** Health within Lab Safety Culture
+title: A Call for Increased Focus on Reproductive Health within Lab Safety Culture
 authors:
   - Sarah Jane Mear
   - Timothy F Jamison
