@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Torsak Luanphaisarnnont
   - Chudi O. Ndubaku
-  - and Timothy F. Jamison
-publication: "Organic Letters "
+  - Timothy F. Jamison
+publication: _"Organic Letters "_
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol050881k
 abstract: Ni-catalyzed reductive coupling of aryl alkynes (1) and
   enantiomerically enriched α-oxyaldehydes (2) afford differentiated
