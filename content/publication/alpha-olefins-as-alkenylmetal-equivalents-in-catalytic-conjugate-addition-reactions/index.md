@@ -7,7 +7,7 @@ authors:
   - Chun-Yu Ho
   - Hirohisa Ohmiya
   - Timothy F. Jamison
-publication: Angewandte Chemie
+publication: _Angewandte Chemie_
 url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/anie.200705163
 abstract: In the presence of a silyl triflate and an amine base, a
   nickel–phosphine complex catalyzes the direct conjugate addition of ethylene,
