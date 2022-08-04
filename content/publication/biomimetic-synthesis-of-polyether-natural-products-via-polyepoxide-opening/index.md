@@ -3,9 +3,8 @@ title: Biomimetic Synthesis of Polyether Natural Products via Polyepoxide Openin
 publication_types:
   - "6"
 authors:
-  - Vilotijevic
-  - I; Jamison
-  - T. F.
+  - Ivan Vilotijevic 
+  - Timothy F. Jamison
 publication: Biomimetic Organic Synthesis
 draft: false
 featured: false
