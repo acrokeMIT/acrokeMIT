@@ -19,8 +19,8 @@ authors:
   - Yuqing Cui
   - Naomi Briggs
   - Rachel L. Beingessner
-  - and AndreaAdamo
-publication: Chemistry A European Journal
+  - Andrea Adamo
+publication: _Chemistry A European Journal_
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201706004
 abstract: As a demonstration of an alternative to the challenges faced with
   batch pharmaceutical manufacturing including the large production footprint
