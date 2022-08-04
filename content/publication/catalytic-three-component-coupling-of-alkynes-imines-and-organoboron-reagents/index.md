@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Sejal J. Patel
   - Timothy F. Jamison
-publication: Angewandte Chemie
+publication: _Angewandte Chemie_
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200390349
 abstract: An unusual degree of functional group compatibility for imine addition
   reactions was observed in the assembly of allylic amines from alkynes, imines,
