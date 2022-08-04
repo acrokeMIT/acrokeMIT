@@ -1,14 +1,11 @@
 ---
-title: "Chapter 1.11: Reductive Coupling and Cyclization of Carbon–Carbon
-  Multiple Bonds"
+title: "Reductive Coupling and Cyclization of Carbon–Carbon Multiple Bonds"
 publication_types:
   - "5"
 authors:
-  - Schleicher
-  - K. D
-  - Jamison
-  - T. F
-publication: "In Science of Synthesis: Stereoselective Synthesis Vol. 1"
+  - Kristin D. Schleicher
+  - Timothy F. Jamison
+publication: "_In Science of Synthesis: Stereoselective Synthesis_"
 draft: false
 featured: false
 image:
