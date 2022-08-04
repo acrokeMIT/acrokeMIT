@@ -16,7 +16,7 @@ main:
   - name: Values
     url: values
     weight: 50
-  - name: Timothy Jamison
+  - name: Timothy F. Jamison
     url: TFJ
     weight: 60
   
