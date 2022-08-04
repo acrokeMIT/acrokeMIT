@@ -4,8 +4,9 @@ title: Catalytic Generation and Use of Ketyl Radical from Unactivated Aliphatic
 publication_types:
   - "2"
 authors:
-  - Hyowon Seo and Timothy F. Jamison
-publication: Organic Letters
+  - Hyowon Seo
+  - Timothy F. Jamison
+publication: _Organic Letters_
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.orglett.9b04235
 abstract: Generation of a ketyl radical from unactivated aliphatic carbonyl
   compounds is an important strategy in organic synthesis. Herein, catalytic
