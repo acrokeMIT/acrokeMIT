@@ -4,8 +4,9 @@ title: A Unified Continuous Flow Assembly Line Synthesis of Highly Substituted
 publication_types:
   - "2"
 authors:
-  - Joshua Britton and Timothy F. Jamison
-publication: Angewandte Chemie
+  - Joshua Britton
+  - Timothy F. Jamison
+publication: _Angewandte Chemie_
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201704529
 abstract: A rapid and modular continuous flow synthesis of highly functionalized
   fluorinated pyrazoles and pyrazolines has been developed. Flowing fluorinated
