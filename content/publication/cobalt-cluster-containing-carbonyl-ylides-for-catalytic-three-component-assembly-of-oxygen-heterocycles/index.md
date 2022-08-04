@@ -7,7 +7,7 @@ authors:
   - Aaron J. Skaggs
   - Eleanor Y. Lin
   - Timothy F. Jamison
-publication: Organic Letters
+publication: _Organic Letters_
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol026149s
 abstract: A dicobalt hexacarbonyl (Co2(CO)6) cluster is essential for the
   unusually broad dipolarophile scope and for the sense and degree of
