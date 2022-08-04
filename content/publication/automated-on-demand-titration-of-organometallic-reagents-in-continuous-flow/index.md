@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Aaron A. Bedermann
   - T. Andrew McTeague
-  - and Timothy F. Jamison
-publication: "Organic Process Research & Development "
+  - Timothy F. Jamison
+publication: _"Organic Process Research & Development "_
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.oprd.8b00434
 abstract: The use of strong organometallic bases and nucleophiles is commonplace
   in modern organic synthesis. That they react with a wide range of functional
