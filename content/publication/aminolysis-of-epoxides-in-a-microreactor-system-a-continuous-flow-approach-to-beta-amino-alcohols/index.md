@@ -7,8 +7,8 @@ authors:
   - Matthew W. Bedore
   - Nikolay Zaborenko
   - Klavs F. Jensen
-  - and Timothy F. Jamison
-publication: Organic Process Research & Development
+  - Timothy F. Jamison
+publication: _Organic Process Research & Development_
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/op9003136
 abstract: The use of a continuous flow microreactor for β-amino alcohol
   formation by epoxide aminolysis is evaluated. Comparison to microwave batch
