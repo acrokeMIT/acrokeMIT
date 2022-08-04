@@ -24,7 +24,7 @@ authors:
   - Catherine P. McGeough,
 author_notes:
   - ""
-publication: "*Journal of the American Chemical Society, 1*(1)"
+publication: "*Journal of the American Chemical Society"
 summary: null
 url_dataset: ""
 url_project: ""
