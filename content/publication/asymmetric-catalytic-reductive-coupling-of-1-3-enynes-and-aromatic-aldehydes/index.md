@@ -7,7 +7,7 @@ authors:
   - Elizabeth A. Colby
   - Katrina S. Woodin
   - Timothy F. Jamison
-publication: Advanced Synthesis & Catalysis
+publication: _Advanced Synthesis & Catalysis_
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.200505175
 abstract: Nickel-catalyzed reductive coupling reactions of 1,3-enynes and
   aromatic aldehydes efficiently afford conjugated dienols in excellent
