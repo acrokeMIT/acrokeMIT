@@ -6,7 +6,7 @@ authors:
   - Karen M. Miller
   - Carmela Molinaro
   - Timothy F. Jamison
-publication: Tetrahedron
+publication: _Tetrahedron_
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957416603006475
 abstract: Enantioselective nickel/phosphine-catalyzed reductive coupling of
   alkynes and aldehydes provides rapid access to synthetically useful allylic
