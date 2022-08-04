@@ -12,8 +12,9 @@ authors:
   - Jule-Phillip Dietz
   - Till Opatz
   - Timothy F. Jamison
-  - Frank B. Guptona and David R. Snead
-publication: ChemComm
+  - Frank B. Guptona
+  - David R. Snead
+publication: _ChemComm_
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2020/cc/d0cc05944g
 abstract: >-
   A two-step route to MK-4482 (EIDD-2801, 1) was developed
