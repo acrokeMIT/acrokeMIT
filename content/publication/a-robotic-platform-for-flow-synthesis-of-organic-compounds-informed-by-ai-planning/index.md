@@ -21,8 +21,8 @@ authors:
   - William H. Green
   - A. John H
   - Timothy F. Jamison
-  - and Klavs F. Jensen
-publication: Science
+  - Klavs F. Jensen
+publication: _Science_
 abstract: The ability to synthesize complex organic molecules is essential to
   the discovery and manufacture of functional compounds, including
   small-molecule medicines. Despite advances in laboratory automation, the
