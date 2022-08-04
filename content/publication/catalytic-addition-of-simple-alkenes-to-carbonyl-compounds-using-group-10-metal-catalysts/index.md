@@ -8,7 +8,7 @@ authors:
   - Kristin D. Schleicher
   - Chun-Wa Chan
   - Timothy F. Jamison
-publication: Synlett
+publication: _Synlett_
 url_pdf: https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0029-1217747
 abstract: Recent advances using nickel complexes in the activation of
   unactivated monosubstituted olefins for catalytic intermolecular carbon-carbon
