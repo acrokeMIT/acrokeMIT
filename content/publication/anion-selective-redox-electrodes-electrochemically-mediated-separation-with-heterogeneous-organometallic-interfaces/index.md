@@ -8,7 +8,7 @@ authors:
   - Heather J. Kulik
   - Timothy F. Jamison
   - T. Alan Hatton
-publication: Advanced Functional Materials
+publication: _Advanced Functional Materials_
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201600079
 abstract: Redox species have been explored extensively for catalysis, energy
   storage, and molecular recognition. It is shown that nanostructured
