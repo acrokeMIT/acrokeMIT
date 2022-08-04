@@ -10,8 +10,8 @@ authors:
   - Sudip Majumdar
   - Hannah Murnen
   - Timothy F. Jamison
-  - and Matthew M. Bio
-publication: Organic Process Research & Development
+  - Matthew M. Bio
+publication: _Organic Process Research & Development_
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.oprd.0c00061
 abstract: The translation of olefin metathesis reactions from the laboratory to
   process scale has been challenging with traditional batch techniques. In this
