@@ -7,8 +7,8 @@ authors:
   - Felix Strieth-Kalthoff
   - Ashley R. Longstreet
   - Jessica M. Weber
-  - and Timothy F. Jamison
-publication: ChemCatChem
+  - Timothy F. Jamison
+publication: _ChemCatChem_
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cctc.201800454
 draft: false
 featured: false
