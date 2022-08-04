@@ -10,8 +10,9 @@ authors:
   - Timothy F. Jamison
   - Tommi S. Jaakkola
   - William H. Green
-  - Regina Barzilay and  Klavs F. Jensen
-publication: Chemical Science
+  - Regina Barzilay
+  - Klavs F. Jensen
+publication: _Chemical Science_
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D
 abstract: "We present a supervised learning approach to predict the products of
   organic reactions given their reactants, reagents, and solvent(s). The
