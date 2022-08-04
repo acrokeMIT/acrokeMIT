@@ -7,7 +7,7 @@ authors:
   - Torsak Luanphaisarnnont
   - Carmela Molinaro
   - Timothy F. Jamison
-publication: Journal of the American Chemical Society
+publication: _Journal of the American Chemical Society_
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/ja0491735
 abstract: In alkene-directed, nickel-catalyzed coupling reactions of 1,3-enynes
   with aldehydes and epoxides, the conjugated alkene dramatically enhances
