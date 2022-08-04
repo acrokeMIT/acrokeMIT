@@ -3,8 +3,9 @@ title: A Reductive Coupling Strategy Toward Ripostatin A
 publication_types:
   - "2"
 authors:
-  - Kristin D. Schleicher and Timothy F. Jamison
-publication: Beilstein Journal of Organic Chemistry
+  - Kristin D. Schleicher
+  - Timothy F. Jamison
+publication: _Beilstein Journal of Organic Chemistry_
 url_pdf: https://www.beilstein-journals.org/bjoc/articles/9/175
 abstract: Synthetic studies on the antibiotic natural product ripostatin A have
   been carried out with the aim to construct the C9−C10 bond by a
