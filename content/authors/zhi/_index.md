@@ -1,7 +1,7 @@
 ---
 title: "Zhi He (Post-doc '15)\t"
 role: ""
-avatar_filename: avatar
+avatar_filename: avatar.jpeg
 social: []
 superuser: false
 user_groups:
