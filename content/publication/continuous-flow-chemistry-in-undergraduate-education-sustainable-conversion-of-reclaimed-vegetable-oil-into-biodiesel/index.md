@@ -11,8 +11,8 @@ authors:
   - Liam P. Kelly
   - Daniel W. Carney
   - Jason K. Sello
-  - and Timothy F. Jamison
-publication: Journal of Chemical Education
+  - Timothy F. Jamison
+publication: _Journal of Chemical Education_
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jchemed.7b00719
 abstract: This laboratory experiment leverages the pedagogical value and
   multidisciplinary nature of biodiesel production from vegetable oil to
