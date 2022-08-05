@@ -1,5 +1,5 @@
 ---
-title: **Minimizing E-Factor in the Continuous-Flow Synthesis of Diazepam and Atropine** 
+title: Minimizing E-Factor in the Continuous-Flow Synthesis of Diazepam and Atropine 
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,7 @@ authors:
   - Robert W. Hicklin
   - William H. Green
   - Timothy F. Jamison
-publication: _**Bioorganic & Medicinal Chemistry 25(23) 6233-6241 DOI 10.1016/j.bmc.2017.02.002**_
+publication: _**Bioorganic & Medicinal Chemistry 25(23) 6233-6241** DOI 10.1016/j.bmc.2017.02.002_
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0968089617302201?via%3Dihub
 abstract: Minimizing the waste stream associated with the synthesis of active
   pharmaceutical ingredients (APIs) and commodity chemicals is of high interest
