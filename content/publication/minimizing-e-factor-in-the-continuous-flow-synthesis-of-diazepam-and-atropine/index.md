@@ -1,5 +1,5 @@
 ---
-title: Minimizing E-Factor in the Continuous-Flow Synthesis of Diazepam and Atropine
+title: **Minimizing E-Factor in the Continuous-Flow Synthesis of Diazepam and Atropine** 
 publication_types:
   - "2"
 authors:
