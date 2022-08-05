@@ -17,6 +17,8 @@ draft: false
 url_pdf:
 featured: false
 tags:
+user_groups:
+  - Alumni
 image:
   filename: featured
   focal_point: Smart
