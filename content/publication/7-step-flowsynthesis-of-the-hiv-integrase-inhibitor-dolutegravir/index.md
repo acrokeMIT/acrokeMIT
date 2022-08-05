@@ -26,7 +26,7 @@ featured: false
 tags:
   - Flow Chemistry
   - Drug Discovery
-image:
+image: 7-Step Flow Synthesis of the HIV Integrase Inhibitor Dolutegravir.jpg
   filename: featured
   focal_point: Smart
   preview_only: false
