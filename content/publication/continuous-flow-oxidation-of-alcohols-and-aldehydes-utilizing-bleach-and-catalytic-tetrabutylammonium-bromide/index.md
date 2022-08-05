@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Andrew B. Leduc
   - and Timothy F. Jamison
-publication: Organic Process Research & Development 2012 16(5), 1082-1089 DOI: 10.1021/op200118h
+publication: Organic Process Research & Development 2012 16(5), 1082-1089 DOI 10.1021/op200118h
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/op200118h?prevSearch=[Contrib%3A+jamison]+and+[Contrib%3A+Leduc,+Andrew+B.]&searchHistoryKey=
 abstract: We report a method for the oxidation of a range of alcohols and
   aldehydes utilizing a simple flow system of alcohols in EtOAc with a stream of
