@@ -1,7 +1,7 @@
 ---
 title: "Zhi He (Post-doc '15)\t"
 role: ""
-image: Zhi.jpg
+  image: "Zhi.jpg"
 social: []
 superuser: false
 user_groups:
