@@ -1,7 +1,7 @@
 ---
 title: Zhi He
 publication_types:
-  - "2"
+  - ""
 authors:
 publication:
 abstract: Dolutegravir (DTG), an important active pharmaceutical ingredient
@@ -25,4 +25,3 @@ image:
   preview_only: false
 date: 
 ---
-apple
