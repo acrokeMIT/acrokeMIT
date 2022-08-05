@@ -9,7 +9,7 @@ authors:
   - B. Frank Gupton
   - Thomas D. Roper
   - Timothy F. Jamison
-doi: 10.1002/anie.201802256
+url_doi: 10.1002/anie.201802256
 publication: _Angewandte Chemie_
 abstract: Dolutegravir (DTG), an important active pharmaceutical ingredient
   (API) used in combination therapy for the treatment of HIV, has been
