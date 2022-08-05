@@ -2,7 +2,7 @@
 title: "Zhi He (Post-doc '15)\t"
 role: ""
 social: []
-image: "Zhi.jpg"
+avatar_filename: avatar.png
 superuser: false
 user_groups:
   - Alumni
