@@ -6,8 +6,7 @@ publication_types:
 authors:
   - Andrew B. Leduc
   - and Timothy F. Jamison
-publication: **Organic Process Research & Development** 16(5),1082-1089 _DOI
-  10.1021/op200118h_
+publication: **Organic Process Research & Development** 16(5),1082-1089 _DOI 10.1021/op200118h_
 abstract: We report a method for the oxidation of a range of alcohols and
   aldehydes utilizing a simple flow system of alcohols in EtOAc with a stream of
   12.5% NaOCl and catalytic Bu4NBr. Secondary alcohols are oxidized to ketones,
