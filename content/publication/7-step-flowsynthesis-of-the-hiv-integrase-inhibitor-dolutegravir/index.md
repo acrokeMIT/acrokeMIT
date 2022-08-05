@@ -29,6 +29,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-**date: 2018-05-14T15:04:14.672Z**
+date: **2018-05-14T15:04:14.672Z**
 ---
 apple
