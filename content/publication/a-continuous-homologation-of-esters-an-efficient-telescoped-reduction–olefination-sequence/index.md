@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Damien Webb
   - Timothy F. Jamison
-publication: _Organic Letters_
+publication: "_Organic Letters 14(10), 2465-2467 (DOI: 10.1021/ol300722e)_"
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol300722e
 abstract: A continuous protocol for the two-carbon homologation of esters to
   α,β-unsaturated esters is described. This multireactor homologation telescopes
