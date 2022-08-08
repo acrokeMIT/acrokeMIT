@@ -21,7 +21,6 @@ authors:
   - Rachel L. Beingessner
   - Andrea Adamo
 publication: "_Chemistry A European Journal 24(11) 2776-2784 (DOI: 10.1002/chem.201706004)_"
-url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201706004
 abstract: As a demonstration of an alternative to the challenges faced with
   batch pharmaceutical manufacturing including the large production footprint
   and lengthy time-scale, we previously reported a refrigerator-sized continuous
@@ -35,12 +34,13 @@ abstract: As a demonstration of an alternative to the challenges faced with
   production of concentrated liquid doses of ciprofloxacin hydrochloride,
   neostigmine methylsulfate and rufinamide that meet US Pharmacopeia standards.
 draft: false
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201706004
 featured: false
 tags:
   - Drug Discovery
   - FlowvChemistry
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2018-01-31T16:37:21.185Z
