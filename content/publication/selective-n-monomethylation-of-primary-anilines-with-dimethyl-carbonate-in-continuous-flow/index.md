@@ -10,7 +10,7 @@ authors:
   - Robert W. Hicklin
   - Alexander Alabugin
   - Timothy F. Jamison
-publication: Tetrahedron
+publication: "**_Tetrahedron 74(25)3124-3128 DOI: 0.1016/j.tet.2017.11.068_**"
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0040402017312346?via%3Dihub
 abstract: Selective N-monomethylation of anilines has been achieved under
   continuous flow conditions using dimethyl carbonate as a green methylating
