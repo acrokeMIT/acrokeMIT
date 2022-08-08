@@ -14,7 +14,7 @@ authors:
   - Timothy F. Jamison
   - Frank B. Guptona
   - David R. Snead
-publication: _ChemComm_
+publication: "_ChemComm 87(56) 13363-13364 (DOI: 10.1039/D0CC05944G)_"
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2020/cc/d0cc05944g
 abstract: >-
   A two-step route to MK-4482 (EIDD-2801, 1) was developed
