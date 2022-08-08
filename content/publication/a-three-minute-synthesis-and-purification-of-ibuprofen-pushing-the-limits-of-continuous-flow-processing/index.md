@@ -6,7 +6,7 @@ publication_types:
 authors:
   - David R. Snead
   - Timothy F. Jamison
-publication: _Angewandte Chemie_
+publication: "_Angewandte Chemie 54(3) 983-987 (DOI: 10.1002/anie.201409093)_"
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201409093
 abstract: In a total residence time of three minutes, ibuprofen was assembled
   from its elementary building blocks with an average yield of above 90 % for
