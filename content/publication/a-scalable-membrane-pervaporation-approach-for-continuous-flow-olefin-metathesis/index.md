@@ -11,8 +11,8 @@ authors:
   - Hannah Murnen
   - Timothy F. Jamison
   - Matthew M. Bio
-publication: "_Organic Process Research & Development 24(10), 2298-2303 (DOI: 10.1021/acs.oprd.0c00061)_"
-url_pdf: https://pubs.acs.org/doi/10.1021/acs.oprd.0c00061
+publication: "_Organic Process Research & Development 24(10), 2298-2303 (DOI:
+  10.1021/acs.oprd.0c00061)_"
 abstract: The translation of olefin metathesis reactions from the laboratory to
   process scale has been challenging with traditional batch techniques. In this
   contribution, we describe a continuous membrane reactor design that
@@ -27,9 +27,10 @@ abstract: The translation of olefin metathesis reactions from the laboratory to
   revealed that the benefits of ethylene removal are most apparent at low
   reaction concentrations.
 draft: false
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.oprd.0c00061
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-04-30T15:28:59.523Z
