@@ -20,7 +20,7 @@ authors:
   - Naomi Briggs
   - Rachel L. Beingessner
   - Andrea Adamo
-publication: _Chemistry A European Journal_
+publication: "_Chemistry A European Journal 24(11) 2776-2784 (DOI: 10.1002/chem.201706004)_"
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201706004
 abstract: As a demonstration of an alternative to the challenges faced with
   batch pharmaceutical manufacturing including the large production footprint
