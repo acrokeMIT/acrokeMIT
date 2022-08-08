@@ -11,7 +11,7 @@ authors:
   - Hannah Murnen
   - Timothy F. Jamison
   - Matthew M. Bio
-publication: _Organic Process Research & Development_
+publication: "_Organic Process Research & Development 24(10), 2298-2303 (DOI: 10.1021/acs.oprd.0c00061)_"
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.oprd.0c00061
 abstract: The translation of olefin metathesis reactions from the laboratory to
   process scale has been challenging with traditional batch techniques. In this
