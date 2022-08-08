@@ -6,8 +6,8 @@ authors:
   - James J. Mousseau
   - Christopher J. Morten
   - Timothy F. Jamison
-publication: "_Chemistry A European Journal 19(30) 10004-10016 (DOI: 10.1002/chem.201300845)_"
-url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201300845
+publication: "_Chemistry A European Journal 19(30) 10004-10016 (DOI:
+  10.1002/chem.201300845)_"
 abstract: "Reversed selectivity: 1,3-Dioxan-5-ol templated epoxy alcohols
   undergo a remarkably selective cyclization, which occurs with near complete
   endo selectivity that is opposite to that predicted by Baldwin's rules. This
@@ -16,11 +16,12 @@ abstract: "Reversed selectivity: 1,3-Dioxan-5-ol templated epoxy alcohols
   suggesting that “templates” may be important in the biosynthesis of marine
   ladder polyethers."
 draft: false
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201300845
 featured: false
 tags:
   - Synthesis
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-06-17T18:29:03.998Z
