@@ -40,9 +40,9 @@ tags:
   - ""
 projects: []
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+  filename: featured
+  focal_point: Smart
+  preview_only: true
 date: 2021-08-01T00:00:00Z
 url_slides: ""
 publishDate: 2021-08-01T00:00:00Z
