@@ -7,7 +7,7 @@ authors:
   - Kim L. Jensen
   - Dennis U. Nielsen
   - Timothy F. Jamison
-publication: "_Chemistry A European Journal 21(20) 379-7383 (DOI: 10.1002/chem.201500886)_"
+publication: "_Chemistry A European Journal 21(20) 7379-7383 (DOI: 10.1002/chem.201500886)_"
 abstract: In this communication, we report a straightforward synthesis of
   enantiomerically pure 2-alkyl azetidines The protocol is based on a highly
   regioselective nickel-catalyzed cross-coupling of aliphatic organozinc
