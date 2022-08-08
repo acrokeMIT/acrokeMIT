@@ -8,8 +8,8 @@ authors:
   - Long V. Nguyen
   - Ashley J. Rochford
   - Timothy F. Jamison
-publication: "_The Journal of Organic Chemistry 87(5) 2887-2897 DOI:
-  10.1021/acs.joc.1c02772_"
+publication: "_The Journal of Organic Chemistry 87(5) 2887-2897 (DOI:
+  10.1021/acs.joc.1c02772)_"
 abstract: By simple combination of water and sodium iodide (NaI) with
   chlorotrimethylsilane (TMSCl), promotion of a Vorbrüggen glycosylation en
   route to essential HIV drugs emtricitabine (FTC) and lamivudine (3TC) is
