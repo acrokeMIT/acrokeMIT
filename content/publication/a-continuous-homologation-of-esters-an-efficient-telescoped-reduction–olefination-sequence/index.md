@@ -7,7 +7,6 @@ authors:
   - Damien Webb
   - Timothy F. Jamison
 publication: "_Organic Letters 14(10), 2465-2467 (DOI: 10.1021/ol300722e)_"
-url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol300722e
 abstract: A continuous protocol for the two-carbon homologation of esters to
   α,β-unsaturated esters is described. This multireactor homologation telescopes
   an ester reduction, phosphonate deprotonation, and Horner–Wadsworth–Emmons
@@ -16,11 +15,12 @@ abstract: A continuous protocol for the two-carbon homologation of esters to
   the aldehyde intermediates. The homologated products are obtained in high
   yield and selectivity.
 draft: false
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/ol300722e
 featured: false
 tags:
   - Synthesis
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2012-04-30T19:35:32.859Z
