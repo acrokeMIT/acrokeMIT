@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Joshua Britton
   - Timothy F. Jamison
-publication: _Angewandte Chemie_
+publication: "_Angewandte Chemie 56(30) 8823-8827 (DOI: 10.1002/anie.201704529)_"
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201704529
 abstract: A rapid and modular continuous flow synthesis of highly functionalized
   fluorinated pyrazoles and pyrazolines has been developed. Flowing fluorinated
