@@ -7,8 +7,8 @@ authors:
   - Torsak Luanphaisarnnont
   - Carmela Molinaro
   - Timothy F. Jamison
-publication: "_Journal of the American Chemical Society 126(13), 4130-4131 (DOI: 10.1021/ja0491735)_"
-url_pdf: https://pubs.acs.org/doi/abs/10.1021/ja0491735
+publication: "_Journal of the American Chemical Society 126(13), 4130-4131 (DOI:
+  10.1021/ja0491735)_"
 abstract: In alkene-directed, nickel-catalyzed coupling reactions of 1,3-enynes
   with aldehydes and epoxides, the conjugated alkene dramatically enhances
   reactivity and uniformly directs regioselectivity, independent of the nature
@@ -22,11 +22,12 @@ abstract: In alkene-directed, nickel-catalyzed coupling reactions of 1,3-enynes
   regioselectivity (or at all) with related Ni-catalyzed alkyne coupling
   reactions.
 draft: false
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/ja0491735
 featured: false
 tags:
   - Catalysis
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2004-03-16T15:52:47.026Z
