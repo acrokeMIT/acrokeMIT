@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Hyowon Seo
-  - ]Anne-Catherine Bédard
+  - Anne-Catherine Bédard
   - Willie P. Chen
   - Robert W. Hicklin
   - Alexander Alabugin
