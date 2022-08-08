@@ -9,7 +9,7 @@ authors:
   - Timothy F. Jamison
   - B. Frank Gupton
   - David R. Snead
-publication: _Synlett_
+publication: "_Synlett 32(3) 326-328 (DOI: 10.1055/a-1275-2848)_"
 abstract: A new route to MK-4482 was developed. The route replaces uridine with
   the more available and less expensive cytidine. Low-cost, simple reagents are
   used for the chemical transformations, and the yield is improved from 17% to
