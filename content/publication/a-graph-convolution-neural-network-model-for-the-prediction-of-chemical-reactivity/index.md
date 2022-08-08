@@ -12,7 +12,7 @@ authors:
   - William H. Green
   - Regina Barzilay
   - Klavs F. Jensen
-publication: _Chemical Science_
+publication: "_Chemical Science 2(10) 370-377 (DOI: 10.1039/C8SC04228D)_"
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D
 abstract: "We present a supervised learning approach to predict the products of
   organic reactions given their reactants, reagents, and solvent(s). The
