@@ -7,7 +7,6 @@ authors:
   - David R. Snead
   - Timothy F. Jamison
 publication: "_Angewandte Chemie 54(3) 983-987 (DOI: 10.1002/anie.201409093)_"
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201409093
 abstract: In a total residence time of three minutes, ibuprofen was assembled
   from its elementary building blocks with an average yield of above 90 % for
   each step. A scale-up of this five-stage process (3 bond-forming steps, one
@@ -23,11 +22,12 @@ abstract: In a total residence time of three minutes, ibuprofen was assembled
   monochloride. The use of simple, inexpensive, and readily available reagents
   thus affords a practical synthesis of this important generic pharmaceutical.
 draft: false
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201409093
 featured: false
 tags:
   - Flow Chemistry
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-01-12T16:52:09.288Z
