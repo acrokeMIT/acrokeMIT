@@ -1,6 +1,5 @@
 ---
-title: A Broadly Applicable Strategy for Entry into Homogeneous Nickel(0)
-  Catalysts from Air-Stable Nickel(II) Complexes
+title: A Broadly Applicable Strategy for Entry into Homogeneous Nickel(0) Catalysts from Air-Stable Nickel(II) Complexes
 publication_types:
   - "2"
 authors:
@@ -8,8 +7,8 @@ authors:
   - Stacey J. Smith
   - Peter Müller
   - Timothy F. Jamison
-publication: _Organometallics_
-url_pdf: https://pubs.acs.org/doi/pdf/10.1021/om500156q
+publication: "_Organometallics 33(8) 2012-2018 (DOI: 10.1021/om500156q)_"
+url_pdf: https://pubs.acs.org/doi/10.1021/om500156q
 abstract: A series of air-stable nickel complexes of the form L2Ni(aryl) X (L =
   monodentate phosphine, X = Cl, Br) and LNi(aryl)X (L = bis-phosphine) have
   been synthesized and are presented as a library of precatalysts suitable for a
