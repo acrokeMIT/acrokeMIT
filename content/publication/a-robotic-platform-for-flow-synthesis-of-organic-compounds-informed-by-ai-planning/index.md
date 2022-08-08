@@ -42,7 +42,7 @@ featured: false
 tags:
   - Technology
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 date: 2019-08-09T16:06:37.123Z
