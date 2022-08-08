@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Elizabeth A. Colby
   - Timothy F. Jamison
-publication: _Organic & Biomolecular Chemistry_
+publication: "_Organic & Biomolecular Chemistry 15(3) 2675-2684 (DOI: 10.1039/B507315B)_"
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2005/OB/b507315b
 abstract: In this article we compare and contrast the strategies and tactics
   used in the syntheses of the amphidinolide T family of natural products that
