@@ -3,7 +3,7 @@ title:
   Selective N- Monomethylation of Primary Anilines with Dimethyl Carbonate in Continuous Flow
 publication_types:
   - "2"
-**authors:**
+authors:
   - Hyowon Seo
   - ]Anne-Catherine Bédard
   - Willie P. Chen
