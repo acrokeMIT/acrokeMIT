@@ -7,7 +7,6 @@ authors:
   - Joshua Britton
   - Timothy F. Jamison
 publication: "_Angewandte Chemie 56(30) 8823-8827 (DOI: 10.1002/anie.201704529)_"
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201704529
 abstract: A rapid and modular continuous flow synthesis of highly functionalized
   fluorinated pyrazoles and pyrazolines has been developed. Flowing fluorinated
   amines through sequential reactor coils mediates diazoalkane formation and
@@ -22,9 +21,10 @@ abstract: A rapid and modular continuous flow synthesis of highly functionalized
   synthesis of measles therapeutic, AS-136A, in a total residence time of
   31.7 min (1.76 g h−1).
 draft: false
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201704529
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2017-05-25T13:49:54.440Z
