@@ -22,7 +22,7 @@ featured: false
 tags:
   - Synthesis
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2020-09-30T14:53:37.538Z
