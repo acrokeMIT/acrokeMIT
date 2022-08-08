@@ -13,7 +13,6 @@ authors:
   - Regina Barzilay
   - Klavs F. Jensen
 publication: "_Chemical Science 2(10) 370-377 (DOI: 10.1039/C8SC04228D)_"
-url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D
 abstract: "We present a supervised learning approach to predict the products of
   organic reactions given their reactants, reagents, and solvent(s). The
   prediction task is factored into two stages comparable to manual expert
@@ -28,11 +27,12 @@ abstract: "We present a supervised learning approach to predict the products of
   predictions via the design of the neural model, revealing an understanding of
   chemistry qualitatively consistent with manual approaches."
 draft: false
+url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC04228D
 featured: false
 categories:
   - Organic Synthesis
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2019-01-14T14:20:08.850Z
