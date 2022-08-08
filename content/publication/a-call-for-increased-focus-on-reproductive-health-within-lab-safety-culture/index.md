@@ -20,11 +20,12 @@ publication_types:
 title: A Call for Increased Focus on Reproductive Health within Lab Safety Culture
 authors:
   - Sarah Jane Mear
-  - Timothy F Jamison
+  - Timothy F. Jamison
   - Catherine P. McGeough,
 author_notes:
   - ""
-publication: "*Journal of the American Chemical Society"
+publication: "_Journal of the American Chemical Society 143(32) 12422-12427
+(DOI: 10.1021/jacs.1c03725)_"
 summary: null
 url_dataset: ""
 url_project: ""
