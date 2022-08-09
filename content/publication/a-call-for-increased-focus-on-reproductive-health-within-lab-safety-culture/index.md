@@ -1,5 +1,6 @@
 ---
-abstract: "_Journal of the American Chemical Society 143(32)_ 12422-12427, (DOI: 10.1021/jacs.1c03725)""
+abstract: 
+  "Journal of the American Chemical Society 143(32) 12422-12427, (DOI: 10.1021/jacs.1c03725)""
 slides: null
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/jacs.1c03725
 publication_types:
