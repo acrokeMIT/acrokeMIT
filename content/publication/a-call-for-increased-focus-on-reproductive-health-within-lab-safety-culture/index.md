@@ -24,8 +24,8 @@ authors:
   - Catherine P. McGeough,
 author_notes:
   - ""
-publication: "_Journal of the American Chemical Society 143(32) 12422-12427
-(DOI: 10.1021/jacs.1c03725)_"
+publication: "_Journal of the American Chemical Society 143(32)_ 12422-12427,
+(DOI: 10.1021/jacs.1c03725)"
 summary: null
 url_dataset: ""
 url_project: ""
