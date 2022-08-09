@@ -10,7 +10,7 @@ authors:
   - Peter Müller
   - Timothy F. Jamison
 publication: "_Organometallics 33(8) 2012-2018 (DOI: 10.1021/om500156q)_"
-publication_short: 33(8) 2012-2018
+publication_short: iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 abstract: A series of air-stable nickel complexes of the form L2Ni(aryl) X (L =
   monodentate phosphine, X = Cl, Br) and LNi(aryl)X (L = bis-phosphine) have
   been synthesized and are presented as a library of precatalysts suitable for a
@@ -33,7 +33,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: 33(8) 2012-2018
+summary: uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 date: 2014-04-16T16:27:21.354Z
 ---
-**33(8) 2012-2018**
+**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh**
