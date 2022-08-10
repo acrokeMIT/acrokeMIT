@@ -33,4 +33,5 @@ image:
   preview_only: false
 date: 2018-05-14T15:04:14.672Z
 ---
-apple
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
+
