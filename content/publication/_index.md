@@ -1,6 +1,6 @@
 ---
 title: Publications
-view: 3
+view: citation
 
 header:
   caption: ""
