@@ -9,7 +9,7 @@ authors:
   - Christopher P. Breen
   - Timothy F. Jamison and Klavs F. Jensen
 doi: ""
-publication: Royal Society of Chemistry
+publication: "_Royal Society of Chemistry 134(32) 226-232, DOI: 10.1021/jacs.1c03725_"
 abstract: 
 draft: false
 url_pdf: https://pubs.rsc.org/en/content/articlehtml/2021/re/d1re00350j
