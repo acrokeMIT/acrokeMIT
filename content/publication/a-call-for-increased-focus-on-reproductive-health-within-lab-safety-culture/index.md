@@ -18,7 +18,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: A Call for Increased Focus on Reproductive Health within Lab Safety Culture
-subtitle: Created by Austin Croke
+subtitle: 
 doi: ""
 featured: false
 tags:
