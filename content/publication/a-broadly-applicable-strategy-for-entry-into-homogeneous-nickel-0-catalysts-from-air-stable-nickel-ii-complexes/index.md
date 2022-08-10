@@ -30,7 +30,7 @@ featured: false
 tags:
   - Organometallics
 image:
-  filename: featured.jpg
+  filename:
   focal_point: Smart
   preview_only: true
 summary: 
