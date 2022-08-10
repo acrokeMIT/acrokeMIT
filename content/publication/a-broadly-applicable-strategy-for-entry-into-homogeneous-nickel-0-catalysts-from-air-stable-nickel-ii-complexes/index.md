@@ -9,8 +9,8 @@ authors:
   - Stacey J. Smith
   - Peter Müller
   - Timothy F. Jamison
-publication: "_Organometallics 33(8) 2012-2018 (DOI: 10.1021/om500156q)_"
-publication_short: 
+publication: "_Organometallics 33(8) 2012-2018_ (DOI: 10.1021/om500156q)"
+publication_short: "appple"
 abstract: A series of air-stable nickel complexes of the form L2Ni(aryl) X (L =
   monodentate phosphine, X = Cl, Br) and LNi(aryl)X (L = bis-phosphine) have
   been synthesized and are presented as a library of precatalysts suitable for a
