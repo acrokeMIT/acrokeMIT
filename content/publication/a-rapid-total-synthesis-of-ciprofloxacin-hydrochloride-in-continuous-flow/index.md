@@ -21,11 +21,4 @@ image:
   preview_only: false
 date: 2017-05-31T13:52:49.631Z
 ---
-Within a total residence time of 9 min, the sodium salt of
-  ciprofloxacin was prepared from simple building blocks via a linear sequence
-  of six chemical reactions in five flow reactors. Sequential offline
-  acidifications and filtrations afforded ciprofloxacin and ciprofloxacin
-  hydrochloride. The overall yield of the eight-step sequence was 60 %. No
-  separation of intermediates was required throughout the synthesis when a
-  single acylation reaction was applied to remove the main byproduct,
-  dimethylamine.
+  Within a total residence time of 9 min, the sodium salt of ciprofloxacin was prepared from simple building blocks via a linear sequence of six chemical reactions in five flow reactors. Sequential offline acidifications and filtrations afforded ciprofloxacin and ciprofloxacin hydrochloride. The overall yield of the eight-step sequence was 60 %. No separation of intermediates was required throughout the synthesis when a single acylation reaction was applied to remove the main byproduct, dimethylamine.
