@@ -22,7 +22,7 @@ tags:
 image:
   filename:
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 summary: 
 date: 2014-04-16T16:27:21.354Z
 ---
