@@ -3,9 +3,6 @@ title:
   7-Step FlowSynthesis of the HIV Integrase Inhibitor Dolutegravir
 publication_types:
   - "2"
-links:
-  -name: "Journal"
-  url: "https://onlinelibrary.wiley.com/doi/10.1002/anie.201802256"
 authors:
   - Robert E. Ziegler
   - Bimbisar K. Desai
@@ -18,6 +15,7 @@ publication:
 abstract: 
 draft: false
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201802256
+url_source: "https://onlinelibrary.wiley.com/doi/10.1002/anie.201802256"
 featured: false
 tags:
   - Flow Chemistry
