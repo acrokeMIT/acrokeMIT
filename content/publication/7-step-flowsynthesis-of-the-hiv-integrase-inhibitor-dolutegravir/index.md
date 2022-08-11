@@ -14,6 +14,9 @@ publication:
   "_Angewandte Chemie 57(24) 7181-7185,_ DOI: 10.1002/anie.201802256"
 abstract: 
 draft: false
+links:
+  -name: "Journal"
+  url: "https://onlinelibrary.wiley.com/doi/10.1002/anie.201802256"
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201802256
 featured: false
 tags:
