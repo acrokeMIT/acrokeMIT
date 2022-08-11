@@ -5,8 +5,7 @@ publication_types:
 authors:
   - Megan A. Foley
   - Timothy F. Jamison
-publication: "_Organic Process Research & Development 4(5) 1177-1181_,
-DOI: 10.1021/op1001269"
+publication: "_Organic Process Research & Development 4(5) 1177-1181_, DOI: 10.1021/op1001269"
 url_source: https://pubs.acs.org/doi/abs/10.1021/op1001269
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/op1001269
 summary: "A rapid carboxylic acid-promoted lactone aminolysis is reported. A
