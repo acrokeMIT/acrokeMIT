@@ -3,7 +3,7 @@ publication: "_Journal of the American Chemical Society 143(32) 12422-12427_, DO
 abstract: 
 slides: null
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/jacs.1c03725
-url_source: https://pubs.acs.org/doi/abs/10.1021/jacs.1c03725
+url_source: https://pubs.acs.org/doi/full/10.1021/jacs.1c03725
 publication_types:
   - "2"
 authors:
