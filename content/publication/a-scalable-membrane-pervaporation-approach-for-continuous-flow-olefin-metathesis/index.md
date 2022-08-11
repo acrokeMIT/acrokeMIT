@@ -13,19 +13,7 @@ authors:
   - Matthew M. Bio
 publication: "_Organic Process Research & Development 24(10), 2298-2303_, DOI:
   10.1021/acs.oprd.0c00061"
-summary: "The translation of olefin metathesis reactions from the laboratory to
-  process scale has been challenging with traditional batch techniques. In this
-  contribution, we describe a continuous membrane reactor design that
-  selectively permeates the ethylene byproduct from metathetical processes,
-  thereby overcoming the mass-transport limitations that have negatively
-  influenced the efficiency of this transformation in batch vessels. The
-  membrane sheet-in-frame pervaporation module yielded turnover numbers of >7500
-  in the case of diethyl diallylmalonate ring-closing metathesis. The
-  preparation of more challenging, low-effective-molarity substrates, a
-  cyclooctene and a 14-membered macrocyclic lactone, was also effective. A
-  comparison of optimal membrane reactor conditions to a sealed tubular reactor
-  revealed that the benefits of ethylene removal are most apparent at low
-  reaction concentrations."
+summary: "The translation of olefin metathesis reactions from the laboratory to process scale has been challenging with traditional batch techniques. In this contribution, we describe a continuous membrane reactor design that selectively permeates the ethylene byproduct from metathetical processes, thereby overcoming the mass-transport limitations that have negatively influenced the efficiency of this transformation in batch vessels. The membrane sheet-in-frame pervaporation module yielded turnover numbers of >7500 in the case of diethyl diallylmalonate ring-closing metathesis. The preparation of more challenging, low-effective-molarity substrates, a cyclooctene and a 14-membered macrocyclic lactone, was also effective. A comparison of optimal membrane reactor conditions to a sealed tubular reactor revealed that the benefits of ethylene removal are most apparent at low reaction concentrations."
 draft: false
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.oprd.0c00061
 url_source: https://pubs.acs.org/doi/10.1021/acs.oprd.0c00061
