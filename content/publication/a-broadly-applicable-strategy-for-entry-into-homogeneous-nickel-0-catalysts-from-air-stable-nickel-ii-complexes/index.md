@@ -9,7 +9,7 @@ authors:
   - Stacey J. Smith
   - Peter Müller
   - Timothy F. Jamison
-publication: "_Organometallics 33(8) 2012-2018_, DOI: 10.1021/om500156q"
+publication: "_Organometallics 33(8) 2012-2018,_ DOI: 10.1021/om500156q"
 publication_short: ""
 abstract: 
 draft: false
