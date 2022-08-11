@@ -12,7 +12,7 @@ publication: "_The Journal of Organic Chemistry 87(5) 2887-2897,_ DOI:
   10.1021/acs.joc.1c02772"
 abstract: 
 draft: false
-url_sourcce: https://pubs.acs.org/doi/10.1021/acs.joc.1c02772
+url_source: https://pubs.acs.org/doi/10.1021/acs.joc.1c02772
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.joc.1c02772
 featured: false
 tags:
