@@ -1,6 +1,6 @@
 ---
 title: Publications
-view: Showcase
+view: 3
 
 header:
   caption: ""
