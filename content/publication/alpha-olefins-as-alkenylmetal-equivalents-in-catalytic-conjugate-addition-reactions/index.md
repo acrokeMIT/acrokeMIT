@@ -1,13 +1,12 @@
 ---
-title: Alpha Olefins as Alkenylmetal Equivalents in Catalytic Conjugate Addition
-  Reactions"
+title: Alpha Olefins as Alkenylmetal Equivalents in Catalytic Conjugate Addition Reactions"
 publication_types:
   - "2"
 authors:
   - Chun-Yu Ho
   - Hirohisa Ohmiya
   - Timothy F. Jamison
-publication: _Angewandte Chemie 47(10) 1893-1895_, DOI: 10.1002/anie.200705163"
+publication: "_Angewandte Chemie 47(10) 1893-1895_, DOI: 10.1002/anie.200705163"
 url_source: https://onlinelibrary.wiley.com/doi/10.1002/anie.200705163
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.200705163
 summary: "In the presence of a silyl triflate and an amine base, a
