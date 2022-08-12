@@ -6,9 +6,10 @@ publication_types:
 authors:
   - Christopher P. Breen
   - Timothy F. Jamison
-publication: Chemistry A European Journal
-url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201904400
-abstract: A strategy for the continuous flow synthesis of angiotensin converting
+publication: "_Chemistry A European Journal 25(64),14527-14531_, DOI: 10.1002/chem.201904400"
+url_source: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201904400
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201904400
+summary: "A strategy for the continuous flow synthesis of angiotensin converting
   enzyme (ACE) inhibitors is described. An optimization effort guided by in situ
   IR analysis resulted in a general amide coupling approach facilitated by
   N-carboxyanhydride (NCA) activation that was further characterized by reaction
@@ -18,7 +19,7 @@ abstract: A strategy for the continuous flow synthesis of angiotensin converting
   reactive intermediates and process intensive reaction conditions. The process
   was further developed by preparing enalapril, a World Health Organization
   (WHO) essential medicine, in an industrially relevant flow platform that
-  scaled throughput to ≈1 g h−1.
+  scaled throughput to ≈1 g h−1."
 draft: false
 featured: false
 image:
@@ -27,3 +28,4 @@ image:
   preview_only: false
 date: 2019-10-18T15:59:49.637Z
 ---
+  A strategy for the continuous flow synthesis of angiotensin converting enzyme (ACE) inhibitors is described. An optimization effort guided by in situ IR analysis resulted in a general amide coupling approach facilitated by N-carboxyanhydride (NCA) activation that was further characterized by reaction kinetics analysis in batch. The three-step continuous process was demonstrated by synthesizing 8 different ACE inhibitors in up to 88 % yield with throughputs in the range of ≈0.5 g h−1, all while avoiding both isolation of reactive intermediates and process intensive reaction conditions. The process was further developed by preparing enalapril, a World Health Organization (WHO) essential medicine, in an industrially relevant flow platform that scaled throughput to ≈1 g h−1.
