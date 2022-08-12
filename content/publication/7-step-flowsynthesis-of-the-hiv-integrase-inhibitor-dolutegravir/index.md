@@ -11,7 +11,7 @@ authors:
   - Thomas D. Roper
   - Timothy F. Jamison
 publication: 
-  "_Angewandte Chemie 57(24) 7181-7185,_ DOI: 10.1002/anie.201802256"
+  "_Angewandte Chemie 57(24), 7181-7185,_ DOI: 10.1002/anie.201802256"
 abstract:
 summary: "Dolutegravir (DTG), an important active pharmaceutical ingredient (API) used in combination therapy for the treatment of HIV, has been synthesized in continuous flow. By adapting the reported GlaxoSmithKline process chemistry batch route for Cabotegravir, DTG was produced in 4.5 h in sequential flow operations from commercially available mate-rials. Key features of the synthesis include rapid manufacturing time for pyridone formation, one-step direct amidation of a functionalized pyridone, and telescoping of multiple steps to avoid isolation of intermediates and enable for greater throughput"
 draft: false
