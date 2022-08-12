@@ -10,37 +10,10 @@ authors:
   - Markus Gallei
   - Timothy F. Jamison
   - T. Alan Hatton
-publication: _Energy & Enviromental Science_
+publication: "_Energy & Enviromental Science 10, 1272-1283_, DOI: 10.1039/C7EE00066A"
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2017/ee/c7ee00066a
-abstract: >-
-  Ion-selective electrochemical systems are promising for liquid phase
-  separations, particularly for water
-
-  purification and environmental remediation, as well as in chemical production operations. Redoxmaterials offer an attractive platform for these separations based on their remarkable ion selectivity.
-
-  Water splitting, a primary parasitic reaction in aqueous-phase processes, severely limits the performance of
-
-  such electrochemical processes through significant lowering of current efficiencies and harmful changes in
-
-  water chemistry. We demonstrate that an asymmetric Faradaic cell with redox-functionalization of both
-
-  the cathode and the anode can suppress water reduction and enhance ion separation, especially
-
-  targeting organic micropollutants with current efficiencies of up to 96% towards selective ion-binding.
-
-  A number of organometallic redox-cathodes with electron-transfer properties matching those of a
-
-  ferrocene-functionalized anode, and with potential cation selectivity, were used in the asymmetric cell,
-
-  with cobalt polymers being particularly effective towards aromatic cation adsorption. We demonstrate
-
-  the viability and superior performance of dual-functionalized asymmetric electrochemical cells beyond
-
-  their use in energy storage systems; they can be considered as a next-generation technology for
-
-  aqueous-phase separations, and we anticipate their broad applicability in other processes, including
-
-  electrocatalysis and sensing
+url_source: https://pubs.rsc.org/en/content/articlehtml/2017/ee/c7ee00066a?page=search
+summary: "Ion-selective electrochemical systems are promising for liquid phase separations, particularly for water purification and environmental remediation, as wel as in chemical production operations. Redoxmaterials offer an attractive platform for these separations based on their remarkable ion selectivity. Water splitting, a primary parasitic reaction in aqueous-phase processes, severely limits the performance of such electrochemical processes through significant lowering of current efficiencies and harmful changes in water chemistry. We demonstrate that an asymmetric Faradaic cell with redox-functionalization of both the cathode and the anode can suppress water reduction and enhance ion separation, especially targeting organic micropollutants with current efficiencies of up to 96% towards selective ion-binding A number of organometallic redox-cathodes with electron-transfer properties matching those of a ferrocene-functionalized anode, and with potential cation selectivity, were used in the asymmetric cell, with cobalt polymers being particularly effective towards aromatic cation adsorption. We demonstrate the viability and superior performance of dual-functionalized asymmetric electrochemical cells beyond their use in energy storage systems; they can be considered as a next-generation technology for aqueous-phase separations, and we anticipate their broad applicability in other processes, including electrocatalysis and sensing."
 draft: false
 featured: false
 tags:
@@ -51,3 +24,4 @@ image:
   preview_only: false
 date: 2017-04-18T13:45:51.888Z
 ---
+  Ion-selective electrochemical systems are promising for liquid phase separations, particularly for water purification and environmental remediation, as wel as in chemical production operations. Redoxmaterials offer an attractive platform for these separations based on their remarkable ion selectivity. Water splitting, a primary parasitic reaction in aqueous-phase processes, severely limits the performance of such electrochemical processes through significant lowering of current efficiencies and harmful changes in water chemistry. We demonstrate that an asymmetric Faradaic cell with redox-functionalization of both the cathode and the anode can suppress water reduction and enhance ion separation, especially targeting organic micropollutants with current efficiencies of up to 96% towards selective ion-binding A number of organometallic redox-cathodes with electron-transfer properties matching those of a ferrocene-functionalized anode, and with potential cation selectivity, were used in the asymmetric cell, with cobalt polymers being particularly effective towards aromatic cation adsorption. We demonstrate the viability and superior performance of dual-functionalized asymmetric electrochemical cells beyond their use in energy storage systems; they can be considered as a next-generation technology for aqueous-phase separations, and we anticipate their broad applicability in other processes, including electrocatalysis and sensing."
