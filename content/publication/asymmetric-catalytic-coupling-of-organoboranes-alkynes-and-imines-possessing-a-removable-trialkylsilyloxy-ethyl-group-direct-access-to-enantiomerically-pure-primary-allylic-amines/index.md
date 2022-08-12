@@ -7,13 +7,13 @@ publication_types:
 authors:
   - Sejal J. Patel
   - Timothy F. Jamison
-publication: _Angewandte Chemie_
-abstract: The aryl substituent on the catalyst is central to the success of the
+publication: "_Angewandte Chemie 43(30), 3941-3944_, DOI: 10.1002/anie.200460044"
+summary: "The aryl substituent on the catalyst is central to the success of the
   title reaction (see scheme) which affords allylic amines in up to 89 % ee and
   91 % yield with a catalyst derived from [Ni(cod)2] and a P-chiral ferrocenyl
   phosphane (e.g. 1). The coupling products are easily deprotected to
   enantiomerically enriched, tetrasubstituted primary allylic amines, which can
-  be recrystallized to optical purity.
+  be recrystallized to optical purity."
 draft: false
 featured: false
 tags:
@@ -24,3 +24,4 @@ image:
   preview_only: false
 date: 2004-07-20T14:45:57.359Z
 ---
+  The aryl substituent on the catalyst is central to the success of the title reaction (see scheme) which affords allylic amines in up to 89 % ee and 91 % yield with a catalyst derived from [Ni(cod)2] and a P-chiral ferrocenyl phosphane (e.g. 1). The coupling products are easily deprotected to enantiomerically enriched, tetrasubstituted primary allylic amines, which can be recrystallized to optical purity.
