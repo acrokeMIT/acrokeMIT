@@ -22,3 +22,4 @@ image:
   preview_only: false
 date: 2010-09-23T13:26:24.290Z
 ---
+  Using continuous flow techniques for multi-step synthesis enables multiple reaction steps to be combined into a single continuous operation. In this mini-review we discuss the current state of the art in this field and highlight recent progress and current challenges facing this emerging area.
