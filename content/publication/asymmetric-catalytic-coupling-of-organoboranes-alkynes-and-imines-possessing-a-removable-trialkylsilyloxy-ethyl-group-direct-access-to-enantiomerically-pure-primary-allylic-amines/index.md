@@ -16,6 +16,8 @@ summary: "The aryl substituent on the catalyst is central to the success of the
   be recrystallized to optical purity."
 draft: false
 featured: false
+url_source: https://onlinelibrary.wiley.com/doi/10.1002/anie.200460044
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.200460044
 tags:
   - Catalysis
 image:
