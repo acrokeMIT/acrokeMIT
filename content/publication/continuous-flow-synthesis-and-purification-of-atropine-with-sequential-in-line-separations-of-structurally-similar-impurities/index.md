@@ -27,4 +27,4 @@ image:
   preview_only: false
 date: 2015-09-01T15:16:18.234Z
 ---
-  Flow chemistry has attracted significant interest in pharmaceutical development, where substantial efforts have been directed toward the design of continuous processes. Here, we report a total synthesis of atropine in flow that features an unusual hydroxymethylation and separation of several byproducts with high structural similarity to atropine. Using a combination of careful pH control in three sequential liquid–liquid extractions and afunctionalized resin, atropine is delivered by the flow system with>98% purity"
+  Flow chemistry has attracted significant interest in pharmaceutical development, where substantial efforts have been directed toward the design of continuous processes. Here, we report a total synthesis of atropine in flow that features an unusual hydroxymethylation and separation of several byproducts with high structural similarity to atropine. Using a combination of careful pH control in three sequential liquid–liquid extractions and afunctionalized resin, atropine is delivered by the flow system with>98% purity
