@@ -6,6 +6,8 @@ authors:
   - Ivan Vilotijevic 
   - Timothy F. Jamison
 publication: Biomimetic Organic Synthesis
+url_source: https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527634606.ch15
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/9783527634606.ch15
 draft: false
 featured: false
 image:
