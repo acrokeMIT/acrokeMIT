@@ -6,12 +6,13 @@ authors:
   - Jessica M. Weber
   - Ashley R. Longstreet
   - Timothy F. Jamison
-publication: "_Organometallics_ "
-url_pdf: https://pubs.acs.org/doi/10.1021/acs.organomet.8b00351
-abstract: Herein, we report the synthesis and characterization of a new class of
+publication: "_Organometallics 37(16), 2716-2722_, DOI: 10.1021/acs.organomet.8b00351 "
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.organomet.8b00351
+url_source: https://pubs.acs.org/doi/10.1021/acs.organomet.8b00351
+summary: "Herein, we report the synthesis and characterization of a new class of
   air- and moisture-stable phosphine-containing nickel(II) precatalysts, which
   activate through a Heck-type mechanism. The activities of the precatalysts are
-  demonstrated with a carbonyl–ene coupling reaction
+  demonstrated with a carbonyl–ene coupling reaction"
 draft: false
 featured: false
 tags:
@@ -22,3 +23,4 @@ image:
   preview_only: false
 date: 2018-08-09T13:58:11.396Z
 ---
+  Herein, we report the synthesis and characterization of a new class of air- and moisture-stable phosphine-containing nickel(II) precatalysts, which activate through a Heck-type mechanism. The activities of the precatalysts are demonstrated with a carbonyl–ene coupling reaction
