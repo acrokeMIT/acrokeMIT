@@ -7,15 +7,16 @@ authors:
   - Elizabeth A. Colby
   - Katrina S. Woodin
   - Timothy F. Jamison
-publication: _Advanced Synthesis & Catalysis_
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.200505175
-abstract: Nickel-catalyzed reductive coupling reactions of 1,3-enynes and
+publication: "_Advanced Synthesis & Catalysis 347(11-13), 1533-1536_, DOI: 10.1002/adsc.200505175"
+url_source: https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.200505175
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/adsc.200505175
+summary: "Nickel-catalyzed reductive coupling reactions of 1,3-enynes and
   aromatic aldehydes efficiently afford conjugated dienols in excellent
   regioselectivity and modest enantioselectivity when conducted in the presence
   of catalytic amounts of a monodentate, P-chiral ferrocenyl phosphine ligand.
   1-(Trimethylsilyl)-substituted enynes are shown to be effective coupling
   partners in these reactions, and the dienol products thus formed readily
-  undergo protiodesilylation under mild conditions.
+  undergo protiodesilylation under mild conditions."
 draft: false
 featured: false
 tags:
@@ -26,3 +27,4 @@ image:
   preview_only: false
 date: 2005-10-19T20:33:04.406Z
 ---
+  Nickel-catalyzed reductive coupling reactions of 1,3-enynes and aromatic aldehydes efficiently afford conjugated dienols in excellent regioselectivity and modest enantioselectivity when conducted in the presence of catalytic amounts of a monodentate, P-chiral ferrocenyl phosphine ligand. 1-(Trimethylsilyl)-substituted enynes are shown to be effective coupling partners in these reactions, and the dienol products thus formed readily undergo protiodesilylation under mild conditions."
