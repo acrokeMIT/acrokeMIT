@@ -12,7 +12,7 @@ authors:
   - Daniel W. Carney
   - Jason K. Sello
   - Timothy F. Jamison
-publication: "_Journal of Chemical Education 95 (8), 1371-1375_, DOI: 10.1021/acs.jchemed.7b00719
+publication: "_Journal of Chemical Education 95 (8), 1371-1375_, DOI: 10.1021/acs.jchemed.7b00719"
 url_source: https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00719
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jchemed.7b00719
 summary: "This laboratory experiment leverages the pedagogical value and
