@@ -7,23 +7,10 @@ authors:
   - Jie Wu
   - Jennifer A. Kozak
   - Fritz Simeon
-  - T. Alan Hatton and Timothy F. Jamison
-publication: Chemical Science
-abstract: >-
-  A mechanism-guided design of a multi-step flow system enabled an efficient
-  general process for the
-
-  synthesis of cyclic carbonates from alkenes and CO2. The flow system proved to be an ideal platform for
-
-  multicomponent reactions because it was straightforward to introduce reagents at specific stages
-
-  without their interacting with each other or with reaction intermediates prone to destruction by them.
-
-  This system exhibited superior reactivity, increased yield, and broader substrate scope relative to
-
-  conventional batch conditions and suppressed the formation of undesired byproducts, such as, epoxides
-
-  and 1,2-dibromoalkanes.
+  - T. Alan Hatton
+  - Timothy F. Jamison
+publication: "Chemical Science
+summary:  "A mechanism-guided design of a multi-step flow system enabled an efficient general process for the synthesis of cyclic carbonates from alkenes and CO2. The flow system proved to be an ideal platform for multicomponent reactions because it was straightforward to introduce reagents at specific stages without their interacting with each other or with reaction intermediates prone to destruction by them. This system exhibited superior reactivity, increased yield, and broader substrate scope relative to conventional batch conditions and suppressed the formation of undesired byproducts, such as, epoxides and 1,2-dibromoalkanes."
 draft: false
 featured: false
 tags:
@@ -34,3 +21,4 @@ image:
   preview_only: false
 date: 2014-01-27T17:52:56.358Z
 ---
+  A mechanism-guided design of a multi-step flow system enabled an efficient general process for the synthesis of cyclic carbonates from alkenes and CO2. The flow system proved to be an ideal platform for multicomponent reactions because it was straightforward to introduce reagents at specific stages without their interacting with each other or with reaction intermediates prone to destruction by them. This system exhibited superior reactivity, increased yield, and broader substrate scope relative to conventional batch conditions and suppressed the formation of undesired byproducts, such as, epoxides and 1,2-dibromoalkanes.
