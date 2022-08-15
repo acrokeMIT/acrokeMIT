@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Andrew S. Kleinke
   - Timothy F. Jamison
-publication: "Organic Letters 15(3), 710-713_, DOI: 10.1021/ol400051n"
+publication: "_Organic Letters 15(3), 710-713_, DOI: 10.1021/ol400051n"
 url_source: https://pubs.acs.org/doi/abs/10.1021/ol400051n
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/ol400051n
 summary: "The first continuous hydrogenation that requires neither H2 nor metal
