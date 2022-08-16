@@ -5,17 +5,11 @@ publication_types:
 authors:
   - Sarah Z. Tasker
   - Eric A. Standley
-  - "& Timothy F. Jamison"
-publication: Nature
+  - Timothy F. Jamison
+publication: "_Nature 509, 299–309_, DOI: 10.1038/nature13274"
 url_pdf: https://www.nature.com/articles/nature13274.pdf
-abstract: Tremendous advances have been made in nickel catalysis over the past
-  decade. Several key properties of nickel, such as facile oxidative addition
-  and ready access to multiple oxidation states, have allowed the development of
-  a broad range of innovative reactions. In recent years, these properties have
-  been increasingly understood and used to perform transformations long
-  considered exceptionally challenging. Here we discuss some of the most recent
-  and significant developments in homogeneous nickel catalysis, with an emphasis
-  on both synthetic outcome and mechanism.
+url_source: https://www.nature.com/articles/nature13274
+summary: "Tremendous advances have been made in nickel catalysis over the past decade. Several key properties of nickel, such as facile oxidative addition and ready access to multiple oxidation states, have allowed the development of a broad range of innovative reactions. In recent years, these properties have been increasingly understood and used to perform transformations long considered exceptionally challenging. Here we discuss some of the most recent and significant developments in homogeneous nickel catalysis, with an emphasis on both synthetic outcome and mechanism."
 draft: false
 featured: false
 tags:
@@ -26,3 +20,4 @@ image:
   preview_only: false
 date: 2014-05-14T16:23:01.026Z
 ---
+  Tremendous advances have been made in nickel catalysis over the past decade. Several key properties of nickel, such as facile oxidative addition and ready access to multiple oxidation states, have allowed the development of a broad range of innovative reactions. In recent years, these properties have been increasingly understood and used to perform transformations long considered exceptionally challenging. Here we discuss some of the most recent and significant developments in homogeneous nickel catalysis, with an emphasis on both synthetic outcome and mechanism.
