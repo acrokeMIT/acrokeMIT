@@ -9,8 +9,9 @@ authors:
   - Aaron Van Dyke
   - Karen Miller
   - Matthew Fleming
-doi: Organic Synthesis
-url_pdf: http://www.orgsyn.org/demo.aspx?prep=v84p0111
+publication: "_Organic Synthesis 84, 111-119_, DOI: 10.15227/orgsyn.084.0111"
+url_source: http://www.orgsyn.org/demo.aspx?prep=v84p0111
+url_pdf: http://www.orgsyn.org/Content/pdfs/procedures/v84p0111.pdf
 draft: false
 featured: false
 tags:
