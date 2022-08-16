@@ -4,10 +4,10 @@ publication_types:
   - "2"
 authors:
   - T.F Jamison
-publication: Tetrahedron
+publication: "_Tetrahedron 62(32), 7503_, DOI: 10.1016/j.tet.2006.04.078"
 draft: false
 featured: false
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0040402006006739?via%3Dihub
+url_source: https://www.sciencedirect.com/science/article/abs/pii/S0040402006006739?via%3Dihub
 tags:
   - Catalysis
 image:
