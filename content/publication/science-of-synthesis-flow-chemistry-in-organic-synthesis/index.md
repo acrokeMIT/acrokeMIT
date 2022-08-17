@@ -1,13 +1,12 @@
 ---
 title: "Science of Synthesis: Flow Chemistry in Organic Synthesis"
 publication_types:
-  - "2"
+  - "5"
 authors:
-  - Koch
-  - G. Jamison
-  - T. F.
+  - Guido Koch
+  - Timothy F. Jamison
 publication: Science of Synthesis
-url_pdf: https://www.thieme-connect.de/products/ebooks/book/10.1055/b-006-161272
+url_source: https://www.thieme-connect.de/products/ebooks/book/10.1055/b-006-161272
 draft: false
 featured: false
 image:
