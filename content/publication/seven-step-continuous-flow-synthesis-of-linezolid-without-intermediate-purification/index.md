@@ -6,15 +6,10 @@ publication_types:
 authors:
   - M. Grace Russell
   - Timothy F. Jamison
-publication: Angewandte Chemie
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201901814
-abstract: Herein, the blockbuster antibacterial drug linezolid is synthesized
-  from simple starting blocks by a convergent continuous flow sequence involving
-  seven (7) chemical transformations. This is the highest total number of
-  distinct reaction steps ever performed in continuous flow without conducting
-  solvent exchanges or intermediate purification. Linezolid was obtained in 73 %
-  isolated yield in a total residence time of 27 minutes, corresponding to a
-  throughput of 816 mg h−1.
+publication: "_Angewandte Chemie 58(23), 7678-7681_, DOI: 10.1002/anie.201901814"
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201901814
+url_source: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201901814
+summary: "Herein, the blockbuster antibacterial drug linezolid is synthesized from simple starting blocks by a convergent continuous flow sequence involving seven (7) chemical transformations. This is the highest total number of distinct reaction steps ever performed in continuous flow without conducting solvent exchanges or intermediate purification. Linezolid was obtained in 73 % isolated yield in a total residence time of 27 minutes, corresponding to a throughput of 816 mg h−1."
 draft: false
 featured: false
 tags:
@@ -25,3 +20,4 @@ image:
   preview_only: false
 date: 2019-04-09T16:33:27.817Z
 ---
+  Herein, the blockbuster antibacterial drug linezolid is synthesized from simple starting blocks by a convergent continuous flow sequence involving seven (7) chemical transformations. This is the highest total number of distinct reaction steps ever performed in continuous flow without conducting solvent exchanges or intermediate purification. Linezolid was obtained in 73 % isolated yield in a total residence time of 27 minutes, corresponding to a throughput of 816 mg h−1.
