@@ -6,14 +6,10 @@ publication_types:
 authors:
   - Johann Chan
   - Timothy F. Jamison
-publication: Journal of the American Chemical Society
-url_pdf: https://pubs.acs.org/doi/abs/10.1021/ja0373925
-abstract: (−)-Terpestacin (1a, naturally occurring enantiomer) and
-  (+)-11-epi-terpestacin (1b) were prepared using catalyst-controlled,
-  stereoselective intermolecular reductive couplings of alkyne 4 and aldehyde 5.
-  Related to enantioselective methods developed in our laboratory, these
-  stereoselective fragment couplings were instrumental in confirming that
-  “siccanol” is not 11-epi-terpestacin, but in fact is (−)-terpestacin itself.
+publication: "_Journal of the American Chemical Society 125(38), 11514-11515_, DOI: 10.1021/ja0373925"
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/ja0373925
+url_source: https://pubs.acs.org/doi/abs/10.1021/ja0373925
+summary: "(−)-Terpestacin (1a, naturally occurring enantiomer) and (+)-11-epi-terpestacin (1b) were prepared using catalyst-controlled, stereoselective intermolecular reductive couplings of alkyne 4 and aldehyde 5. Related to enantioselective methods developed in our laboratory, these stereoselective fragment couplings were instrumental in confirming that “siccanol” is not 11-epi-terpestacin, but in fact is (−)-terpestacin itself."
 draft: false
 featured: false
 tags:
@@ -24,3 +20,4 @@ image:
   preview_only: false
 date: 2003-08-30T15:03:41.525Z
 ---
+  (−)-Terpestacin (1a, naturally occurring enantiomer) and (+)-11-epi-terpestacin (1b) were prepared using catalyst-controlled, stereoselective intermolecular reductive couplings of alkyne 4 and aldehyde 5. Related to enantioselective methods developed in our laboratory, these stereoselective fragment couplings were instrumental in confirming that “siccanol” is not 11-epi-terpestacin, but in fact is (−)-terpestacin itself.
