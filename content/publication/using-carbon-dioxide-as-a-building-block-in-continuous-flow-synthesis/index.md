@@ -6,14 +6,10 @@ authors:
   - Hyowon Seo
   - Long V. Nguyen
   - Timothy F. Jamison
-publication: Advanced Synthesis and Catalysis
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/adsc.201801228
-abstract: Carbon dioxide (CO2) is an attractive building block for organic
-  synthesis that is environmentally friendly. Continuous flow technologies have
-  enabled C−O and C−C bond forming reactions with CO2 that previously were
-  either low-yielding or impossible in batch to afford value-added chemicals.
-  This review describes recent advances in continuous flow as an enabling
-  strategy in utilizing CO2 as a C1 building block in chemical synthesis.
+publication: "_Advanced Synthesis and Catalysis 361(2), 247-264_, DOI: 10.1002/adsc.201801228"
+url_source: https://onlinelibrary.wiley.com/doi/full/10.1002/adsc.201801228
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/adsc.201801228
+summary: "Carbon dioxide (CO2) is an attractive building block for organic synthesis that is environmentally friendly. Continuous flow technologies have enabled C−O and C−C bond forming reactions with CO2 that previously were either low-yielding or impossible in batch to afford value-added chemicals. This review describes recent advances in continuous flow as an enabling strategy in utilizing CO2 as a C1 building block in chemical synthesis."
 draft: false
 featured: false
 categories:
@@ -25,3 +21,4 @@ image:
   preview_only: false
 date: 2018-11-19T14:39:39.442Z
 ---
+  Carbon dioxide (CO2) is an attractive building block for organic synthesis that is environmentally friendly. Continuous flow technologies have enabled C−O and C−C bond forming reactions with CO2 that previously were either low-yielding or impossible in batch to afford value-added chemicals. This review describes recent advances in continuous flow as an enabling strategy in utilizing CO2 as a C1 building block in chemical synthesis.
