@@ -6,6 +6,7 @@ authors:
   - Kristin D. Schleicher
   - Timothy F. Jamison
 publication: "_In Science of Synthesis: Stereoselective Synthesis_"
+url_pdf: https://www.thieme-connect.de/products/ebooks/pdf/10.1055/sos-SD-201-00267.pdf
 draft: false
 featured: false
 image:
