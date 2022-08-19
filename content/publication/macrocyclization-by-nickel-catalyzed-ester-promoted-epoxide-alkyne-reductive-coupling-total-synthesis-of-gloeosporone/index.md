@@ -8,7 +8,7 @@ authors:
   - Timothy F. Jamison
 publication: "_Angewandte Chemie 48(29), 5366-5368_, DOI: 10.1002/anie.200902079" 
 url_source: https://onlinelibrary.wiley.com/doi/10.1002/anie.200902079
-url_source: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.200902079
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.200902079
 summary: "Ringing the changes: The total synthesis of the title compound
   centers around a novel strategy that employs a nickel(0)–phosphine complex and
   triethyl borane in an efficient closure of a 14-membered ring through CC bond
