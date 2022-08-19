@@ -1,5 +1,5 @@
 ---
-title: Toward a Practical, Nonenzymatic Process for Investigational COVID-19 Antiviral Molnupiravir from Cytidine: Supply-Centered Synthesis
+title: "Toward a Practical, Nonenzymatic Process for Investigational COVID-19 Antiviral Molnupiravir from Cytidine: Supply-Centered Synthesis"
 publication_types:
   - "2"
 authors:
