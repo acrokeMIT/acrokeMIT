@@ -23,7 +23,7 @@ url_source: https://pubs.acs.org/doi/10.1021/acs.joc.1c02772
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.joc.1c02772
 featured: false
 tags:
-  - Organic Synthesis
+  - Synthesis
 image:
   filename: featured.jpg
   focal_point: Smart
