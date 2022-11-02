@@ -24,7 +24,7 @@ featured: false
 tags:
   - Synthesis
 image:
-  filename: featured.jpg
+  filename:
   focal_point: Smart
   preview_only: false
 date: 2022-06-16T16:27:21.354Z
