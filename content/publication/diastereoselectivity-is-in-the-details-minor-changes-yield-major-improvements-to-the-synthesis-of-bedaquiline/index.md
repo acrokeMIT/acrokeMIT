@@ -1,5 +1,5 @@
 ---
-title: Diastereoselectivity is in the Details: Minor Changes Yield Major Improvements to the Synthesis of Bedaquiline
+title: "Diastereoselectivity is in the Details: Minor Changes Yield Major Improvements to the Synthesis of Bedaquiline"
 publication_types:
   - "2"
 authors:
